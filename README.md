@@ -48,3 +48,5 @@ Java (Swing/AWT)
 MySQL (JDBC)
 IDE: IntelliJ IDEA / Eclipse / NetBeans
 JDK: Java 8+
+
+Clone the repository `bash git clone https://github.com/your-username/hospital-management-system.git cd hospital-management-system
