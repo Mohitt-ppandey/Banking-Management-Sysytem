@@ -2,25 +2,25 @@ Bank Management System
 
 This is a simple Bank Management System developed using Java. It allows users to perform basic banking operations such as creating accounts, viewing account details, depositing money, withdrawing money, and checking balances.
 
-Features :
+<h3>Features :</h3><br>
 
-Create a new bank account
+Create a new bank account<br>
 
-Deposit and withdraw funds
+Deposit and withdraw funds<br>
 
-View account details
+View account details<br>
 
-Delete an account 
+Delete an account <br>
 
-Basic console-based UI
+Basic console-based UI<br>
 
-Technologies Used :
+<h3>Technologies Used :</h3>
 
-Java (Core Java)
+Java (Core Java)<br>
 
-File Handling (for storing user data)
+File Handling (for storing user data)<br>
 
-Object-Oriented Programming principles
+Object-Oriented Programming principles<br>
 
 BankManagementSystem/
 │
@@ -43,7 +43,7 @@ BankManagementSystem/
 │
 └── README.md
 
-🛠️ Tech Stack
+🛠️ Tech Stack<br>
 Java (Swing/AWT)<br>
 MySQL (JDBC)<br>
 IDE: IntelliJ IDEA / Eclipse / NetBeans<br>
