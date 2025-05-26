@@ -44,9 +44,9 @@ BankManagementSystem/
 └── README.md
 
 🛠️ Tech Stack
-Java (Swing/AWT)
-MySQL (JDBC)
-IDE: IntelliJ IDEA / Eclipse / NetBeans
-JDK: Java 8+
+Java (Swing/AWT)<br>
+MySQL (JDBC)<br>
+IDE: IntelliJ IDEA / Eclipse / NetBeans<br>
+JDK: Java 8+<br>
 
 Clone the repository `bash git clone https://github.com/your-username/hospital-management-system.git cd hospital-management-system
