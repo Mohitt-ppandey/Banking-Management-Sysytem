@@ -50,6 +50,8 @@ withdraw, transfer, report, balance check and can add new admin.
 
   ![Add Account](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090330.png?raw=true)
 
+  ![Add Account](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090429.png?raw=true)
+
 **Transaction Page:** 
 The user can perform two actions i.e. withdrawing and depositing on his
 account. On loading of withdraw/deposit page, the user has to enter the account no. If the account no
