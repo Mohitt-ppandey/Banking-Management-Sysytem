@@ -48,7 +48,7 @@ withdraw, transfer, report, balance check and can add new admin.
 
   ![Add Customer](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090247.png?raw=true)
 
-  ![Add Account](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss4.png)
+  ![Add Account](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090330.png?raw=true)
 
 **Transaction Page:** 
 The user can perform two actions i.e. withdrawing and depositing on his
