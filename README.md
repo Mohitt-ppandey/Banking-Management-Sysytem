@@ -19,9 +19,9 @@ between two accounts, and viewing transaction history.
 
 ## Group Members:
 
- - [@parthdali](https://github.com/parthd06)
- - [@pranavdalvi](https://github.com/PRANAVD-10)
- - [@shivambhosale](https://github.com/ShivamB10)
+ - mohit.24scse1010002@galgotiasuniversity.ac.in
+ - siddhant.24scse1010420@galgoyiasuniversity.ac.in
+ - 
 
 ## System Design & Flow Chart:
 
@@ -41,7 +41,7 @@ user does not have access to the system.
 Through this page the user can add a customer, create account, deposit,
 withdraw, transfer, report, balance check and can add new admin.
 
-![Main Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss2.png)
+![Main Page]()
 
 - Addition of new customer and then creating account for the customer.
 
