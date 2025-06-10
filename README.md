@@ -58,11 +58,6 @@ account. On loading of withdraw page.
 
 ![Withdraw Page](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-06-10%20220430.png?raw=true)
 
-**Transfer Page:**
-On this page, the user can transfer money from one account to another account.
-On loading, the user has to enter the account no’s from which he wishes to transfer money.
-
-![Transfer Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss7.png)
 
 **Report Page:** It displays all the details of the customer to the administrator.
 
