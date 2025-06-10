@@ -53,11 +53,10 @@ withdraw, transfer, report, balance check and can add new admin.
   ![Add Account](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090429.png?raw=true)
 
 **Transaction Page:** 
-The user can perform two actions i.e. withdrawing and depositing on his
-account. On loading of withdraw/deposit page, the user has to enter the account no. If the account no
-details is stored in the database, It will be reflected on this page. 
+The user can perform two actions i.e. withdrawing on his
+account. On loading of withdraw page.
 
-![Withdraw Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss5.png)
+![Withdraw Page](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-06-10%20220430.png?raw=true)
 
 **Transfer Page:**
 On this page, the user can transfer money from one account to another account.
