@@ -88,17 +88,7 @@ account. On loading of withdraw page.
 
 - It also reduces the human errors caused by employees or the customer itself.
 
-## Documentations:
 
-- [Project Ppt](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/PPT_SEITA_19.pptx)
 
-- [Final Report](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Reports/ProjectReport_SEITA_19.pdf)
 
-## References:
-
-- https://www.javatpoint.com/online-banking-project
-
-- https://projectsgeek.com/2016/02/complete-banking-system-java-project.html
-
-- https://www.apachefriends.org/index.html
 
