@@ -67,11 +67,6 @@ account. On loading of withdraw page.
 
 ![Balance Page](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-06-10%20221923.png?raw=true)
 
-**Admin Page:** 
-It allows the existing administrator to create new administrators and delete existing
-administrator.
-
-![Admin Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss10.png)
 
 ## System Requirements:
 
