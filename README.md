@@ -61,7 +61,7 @@ account. On loading of withdraw page.
 
 **Report Page:** It displays all the details of the customer to the administrator.
 
-![Report Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss8.png)
+![Report Page](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20091037.png?raw=true)
 
 **Balance Page:** It displays the account balance of the selected customer.
 
