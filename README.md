@@ -72,7 +72,7 @@ account. On loading of withdraw page.
 
 • **Interpreters:** Java and Java Database Connectivity(JDBC).
 
-• **Software:** Netbeans, Xampp.
+• **Technology used:** java , java swing and awt for GUI.
 
 • **Database:** MySQL.
 
