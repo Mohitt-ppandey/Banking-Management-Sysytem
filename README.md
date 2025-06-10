@@ -35,7 +35,7 @@ Administrator(user) have to insert his credentials to access the system. All the
 data of the administrator is already stored in the database. If the credentials does not match, the
 user does not have access to the system. 
 
-![Login Page](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss1.png](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090222.png?raw=true)
+![Login Page] (https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090222.png?raw=true)
 
 **Main Menu:** 
 Through this page the user can add a customer, create account, deposit,
