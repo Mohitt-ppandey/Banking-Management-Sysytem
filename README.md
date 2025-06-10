@@ -46,7 +46,7 @@ withdraw, transfer, report, balance check and can add new admin.
 
 - Addition of new customer and then creating account for the customer.
 
-  ![Add Customer](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss3.png)
+  ![Add Customer](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090247.png?raw=true)
 
   ![Add Account](https://github.com/parthd06/Java-Bank_Management_System/blob/main/Extras/Screenshots/ss4.png)
 
