@@ -19,9 +19,10 @@ between two accounts, and viewing transaction history.
 
 ## Group Members:
 
- - mohit.24scse1010002@galgotiasuniversity.ac.in
- - siddhant.24scse1010420@galgoyiasuniversity.ac.in
- - 
+ - MOHIT PANDEY
+ - SIDDHANT SINGH
+ - CHUNCHUN KUMAR
+ - MAYANK SOLANKI
 
 ## System Design & Flow Chart:
 
