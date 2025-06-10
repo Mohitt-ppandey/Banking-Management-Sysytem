@@ -42,7 +42,7 @@ user does not have access to the system.
 Through this page the user can add a customer, create account, deposit,
 withdraw, transfer, report, balance check and can add new admin.
 
-![Main Page]()
+![Main Page](https://github.com/Mohitt-ppandey/Banking-Management-Sysytem/blob/master/Screenshot%202025-05-25%20090708.png?raw=true)
 
 - Addition of new customer and then creating account for the customer.
 
